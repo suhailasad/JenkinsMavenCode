@@ -1,4 +1,4 @@
-## sample demo commit
+## demo commit
 
 Addressbook Tutorial
 ====================
