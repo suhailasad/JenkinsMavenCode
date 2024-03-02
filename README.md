@@ -1,4 +1,4 @@
-## README-2
+## README
 
 Addressbook Tutorial
 ====================
