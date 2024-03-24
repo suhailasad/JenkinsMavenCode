@@ -1,4 +1,4 @@
-## README poll scm
+## README github webhook trigger
 
 Addressbook Tutorial
 ====================
