@@ -1,4 +1,4 @@
-## README - webhook demo
+## README
 
 Addressbook Tutorial
 ====================
