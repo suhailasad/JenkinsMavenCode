@@ -1,4 +1,4 @@
-## README
+## README - POLL SCM DEMO
 
 Addressbook Tutorial
 ====================
